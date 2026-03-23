@@ -1,5 +1,4 @@
-QT += widgets gui
-QT += ohosextras
+QT += widgets network
 CONFIG += c++11
 
 TARGET = QtScreenShotDemo
